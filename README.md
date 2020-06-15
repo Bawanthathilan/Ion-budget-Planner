@@ -1,4 +1,4 @@
 # Ion-budget-Planner
 This is simple IONIC Budget Planning application for learning purposes.
 
-https://github.com/Bawanthathilan/Ion-budget-Planner/blob/master/image.png?raw=true
+![alt text](https://raw.githubusercontent.com/Bawanthathilan/Ion-budget-Planner/master/images/image.png)
